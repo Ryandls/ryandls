@@ -1,5 +1,4 @@
-# Bryan Dos Santos 
-
+# Ryandls
 
 ### Hello, I am Bryan, welcome to my github
 
@@ -22,7 +21,6 @@
 
 </div>
 
-
 <br>
 <br>
 
@@ -33,16 +31,13 @@
 - I have knowledge of html and css.
 - I have little experience on PHP and MySQL.
 
+- Fun fact: The more I get angry programming, the more I want to program, why nothing compares to such satisfaction when it works out.
+
 How to reach me: LinkedIn and email:
-
-
-
-
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/bryan-douglas-3a58b1193/) [![Hotmail Badge](https://img.shields.io/badge/Outlook-1781EB?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=1781EB)](mailto:bryandouglasxd@hotmail.com)
 <br>
 <br>
 <br>
-    <img width="434px" src="https://github-readme-stats.vercel.app/api?username=ryandls&hide=contribs,prs" />
-   <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYANDLS&langs_count=8)](https://github.com/ryandls/github-readme-statsl" />
-    
+<img width="434px" src="https://github-readme-stats.vercel.app/api?username=ryandls&hide=contribs,prs" />
+<img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYANDLS&langs_count=8)](https://github.com/ryandls/github-readme-statsl" />
