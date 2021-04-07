@@ -13,11 +13,13 @@
 <img src="https://img.shields.io/badge/Ts-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />
 <img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=1FC41A" />
 <img src="https://img.shields.io/badge/Bootstrap-6C1FFF?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=6C1FFF" />
+<img src="https://img.shields.io/badge/vue-32475B?style=for-the-badge&logo=vue.js&logoColor=3FB27F&labelColor=32475B%22/%3E" />
 <img src="https://img.shields.io/badge/ReactJs-2CFFEE?style=for-the-badge&logo=react&logoColor=000&labelColor=2CFFEE" />
 <img src="https://img.shields.io/badge/MongoDB-91FF49?style=for-the-badge&logo=mongodb&logoColor=5C290E&labelColor=91FF49" />
-<img src="https://img.shields.io/badge/Angular-DC143C?style=for-the-badge&logo=Angular&logoColor=white&labelColor=DC143C"/>
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue"/>
-<img src="https://img.shields.io/badge/PHP-6666FF?style=for-the-badge&logo=php&logoColor=white&labelColor=6666FF"/>
+<img src="https://img.shields.io/badge/Angular-DC143C?style=for-the-badge&logo=Angular&logoColor=white&labelColor=DC143C" />
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue" />
+<img src="https://img.shields.io/badge/PHP-6666FF?style=for-the-badge&logo=php&logoColor=white&labelColor=6666FF" />
+
 
 </div>
 
