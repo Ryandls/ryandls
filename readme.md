@@ -27,7 +27,7 @@
 
 <!-- - I’m currently working on ... -->
 
-- I’m currently learning Javascript, Node.Js, React and MongoDB.
+- I’m currently learning Javascript, Node.Js, Vue ❤.
 - I am interested in studying TypeScript and React Native.
 - I have knowledge of html and css.
 - I have little experience on PHP and MySQL.
