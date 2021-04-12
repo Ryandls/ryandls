@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/ReactJs-2CFFEE?style=for-the-badge&logo=react&logoColor=000&labelColor=2CFFEE" />
 <img src="https://img.shields.io/badge/MongoDB-91FF49?style=for-the-badge&logo=mongodb&logoColor=5C290E&labelColor=91FF49" />
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue" />
-<img src="https://img.shields.io/badge/PHP-6666FF?style=for-the-badge&logo=php&logoColor=white&labelColor=6666FF" />
 
 
 </div>
@@ -30,7 +29,6 @@
 - I’m currently learning Javascript, Node.Js, Vue ❤.
 - I am interested in studying TypeScript and React Native.
 - I have knowledge of html and css.
-- I have little experience on PHP and MySQL.
 
 - Fun fact: The more I get angry programming, the more I want to program, why nothing compares to such satisfaction when it works out.
 
