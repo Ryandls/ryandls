@@ -29,7 +29,6 @@
 - I am interested in studying TypeScript and React Native.
 - I have knowledge of html and css.
 
-- Fun fact: The more I get angry programming, the more I want to program, why nothing compares to such satisfaction when it works out.
 
 How to reach me: LinkedIn and email:
 
